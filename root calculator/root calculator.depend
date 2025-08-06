@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1754469710 source:d:\atish c program\leap year by pranav\root calculator\main.c
+	<stdio.h>
+	<math.h>
+
